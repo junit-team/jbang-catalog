@@ -12,6 +12,10 @@
       "script-ref" : "org.junit.platform:junit-platform-console-standalone:1.11.0",
       "description" : "Launch the JUnit Platform from the console"
     },
+    "cli-1.10.5" : {
+      "script-ref" : "org.junit.platform:junit-platform-console-standalone:1.10.5",
+      "description" : "Launch the JUnit Platform from the console"
+    },
     "cli-1.10.4" : {
       "script-ref" : "org.junit.platform:junit-platform-console-standalone:1.10.4",
       "description" : "Launch the JUnit Platform from the console"
