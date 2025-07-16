@@ -107,7 +107,7 @@ Failures (1):
        org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:197)
        org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:150)
        org.junit.jupiter.api.Assertions.assertEquals(Assertions.java:563)
-       test.genTest.testgen(genTest.java:32)
+       helloworldTest.testhelloworld(helloworldTest.java:27)
        java.base/java.lang.reflect.Method.invoke(Method.java:580)
        java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
        java.base/java.util.ArrayList.forEach(ArrayList.java:1597)
