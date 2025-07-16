@@ -94,8 +94,8 @@ Example output (with a failing test):
 ╷
 ├─ JUnit Platform Suite ✔
 ├─ JUnit Jupiter ✔
-│  └─ genTest ✔
-│     └─ testgen() ✘ You should add some testing code for gen here! ==> expected: <1> but was: <2>
+│  └─ helloworldTest ✔
+│     └─ testhelloworld() ✘ You should add some testing code for helloworld here! ==> expected: <1> but was: <2>
 └─ JUnit Vintage ✔
 
 Failures (1):
