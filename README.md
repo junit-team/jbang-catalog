@@ -99,8 +99,8 @@ Example output (with a failing test):
 └─ JUnit Vintage ✔
 
 Failures (1):
-  JUnit Jupiter:genTest:testgen()
-    MethodSource [className = 'test.genTest', methodName = 'testgen', methodParameterTypes = '']
+  JUnit Jupiter:helloworldTest:testhelloworld()
+    MethodSource [className = 'helloworldTest', methodName = 'testhelloworld', methodParameterTypes = '']
     => org.opentest4j.AssertionFailedError: You should add some testing code for gen here! ==> expected: <1> but was: <2>
        org.junit.jupiter.api.AssertionFailureBuilder.build(AssertionFailureBuilder.java:151)
        org.junit.jupiter.api.AssertionFailureBuilder.buildAndThrow(AssertionFailureBuilder.java:132)
