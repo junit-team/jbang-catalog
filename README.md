@@ -58,12 +58,6 @@ To use a specific version of the JUnit CLI, you can run it directly with Maven c
 jbang org.junit.platform:junit-platform-console-standalone:1.13.3
 ```
 
-Or use the catalog with version syntax:
-
-```sh
-jbang junit@junit-team/jbang-catalog/1.13.3
-```
-
 ## JBang Script Tests
 
 JBang provides a JUnit template to help you create and run tests for JBang scripts.
