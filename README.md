@@ -121,6 +121,6 @@ Test run finished after 35 ms
 [         1 tests failed          ]
 ```
 
-=== Additonal Help
+### Additional Help
 
-You can run `junit` and get command line help or read the [guide](https://docs.junit.org/current/user-guide/#running-tests-console-launcher)
+You can run `junit` and get command line help or read the [User Guide](https://docs.junit.org/current/user-guide/#running-tests-console-launcher)
