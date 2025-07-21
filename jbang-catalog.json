@@ -1,11 +1,11 @@
 {
   "aliases" : {
     "junit" : {
-      "script-ref" : "org.junit.platform:junit-platform-console-standalone:1.13.3",
+      "script-ref" : "org.junit.platform:junit-platform-console-standalone:1.13.4",
       "description" : "Launch the JUnit Platform from the console"
     },
     "cli" : {
-      "script-ref" : "org.junit.platform:junit-platform-console-standalone:1.13.3",
+      "script-ref" : "org.junit.platform:junit-platform-console-standalone:1.13.4",
       "description" : "Launch the JUnit Platform from the console"
     }
   }
